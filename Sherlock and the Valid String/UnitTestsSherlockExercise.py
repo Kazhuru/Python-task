@@ -1,5 +1,5 @@
 import unittest
-from excersiseV1 import sherlockValidString
+from SherlockExcersise import sherlockValidString
 
 class TestStringMethods(unittest.TestCase):
 
